@@ -56,7 +56,7 @@ Steps
 
 Clone the repository:
 
-git clone https://github.com/SUHAS-HAR1SH/SCT_CS_02.git
+git clone https://github.com/samarthsr/SCT_CS_02.git
 cd Image_encryption.py
 
 
